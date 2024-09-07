@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mattii1
+- 👋 Hi, I’m @n0kira
 - 👀 I'm interested in Game Development and Programming!
 - 🌱 Currently learning Lua 🌐
 
